@@ -1,15 +1,9 @@
 Here we have changes made from aakash branch
-<<<<<<< HEAD
-
 This changes are made from anish
 These are few lines that has to be made
-
 This is changed from aakash
 The changes we made will be first merge
 
-=======
-This is changed from aakash
-The changes we made will be first mer
-This changes are made from anish
-These are few lines that has to be made
->>>>>>> ea553f649cce1c7529e534941ae70f94eb6c7e8c
+The previous changes has been made
+
+
