@@ -9,4 +9,6 @@ The previous changes has been made
 
 This is the second merge and it will have issues
 
+This is the newb2 change
+
 
